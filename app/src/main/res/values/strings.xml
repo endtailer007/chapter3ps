@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">chapter3ps</string>
+    <string name="todo">TODO</string>
+    <string name="textview">TextView</string>
+    <string name="textview2">TextView</string>
+    <string name="headquarters_california">Headquarters: California</string>
+    <string name="name_google">Name: Google</string>
+</resources>
